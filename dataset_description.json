@@ -8,7 +8,8 @@
         "Maria Sablik",
         "Kate Watkins",
         "David Carey",
-        "Dorothy Bishop"
+        "Dorothy Bishop",
+        "Emma Karlsson"
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "Please contact Kate Watkins (University of Oxford) for citation details",
@@ -22,6 +23,6 @@
     "ReferencesAndLinks": [
         ""
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds004073.v1.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004073.v1.0.1",
     "HEDVersion": ""
 }
