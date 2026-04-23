@@ -1,7 +1,7 @@
 {
-    "EchoTime1": "0.00492", 
+    "EchoTime1": 0.00492, 
     "InPlanePhaseEncodingDirectionDICOM": "COL", 
-    "EchoTime2": "0.00738", 
+    "EchoTime2": 0.00738, 
     "ConsistencyInfo": "N4_VE11C_LATEST_20160120", 
     "DeviceSerialNumber": "66093", 
     "AcquisitionMatrixPE": 90, 

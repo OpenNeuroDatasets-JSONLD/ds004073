@@ -35,8 +35,8 @@
     "EchoTime": 0.00738,
     "RepetitionTime": 0.59,
     "FlipAngle": 46,
-    "EchoTime1": "0.00492",
-    "EchoTime2": "0.00738",
+    "EchoTime1": 0.00492,
+    "EchoTime2": 0.00738,
     "PartialFourier": 1,
     "BaseResolution": 90,
     "ShimSetting": [
